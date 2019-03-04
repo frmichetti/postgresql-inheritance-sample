@@ -1,0 +1,1 @@
+INSERT INTO public.employees (id, created_at, deleted_at, updated_at, phone, cpf, user_id) VALUES (14, '2019-03-04 18:57:21.451279', null, '2019-03-04 18:57:21.451279', '123123123132', '3123123123', 12);

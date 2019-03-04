@@ -1,0 +1,2 @@
+INSERT INTO public.access_tokens (token, created_at, valid_until, person_id) VALUES ('aasdasdasdda', '2019-03-04 18:57:45.010946', '2019-03-05 18:57:45.010946', 14);
+INSERT INTO public.access_tokens (token, created_at, valid_until, person_id) VALUES ('xxxxxxxxxxxxxxxx', '2019-03-04 18:58:21.851197', '2019-03-05 18:58:21.851197', 13);

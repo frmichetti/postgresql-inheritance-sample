@@ -1,0 +1,3 @@
+INSERT INTO public.users (id, created_at, deleted_at, updated_at, name, email, encrypted_password) VALUES (11, '2019-03-04 18:56:25.339544', null, '2019-03-04 18:56:25.339544', 'Felipe R M', 'frmichetti@gmail.com', 'alsdladslsadjasdh1231');
+INSERT INTO public.users (id, created_at, deleted_at, updated_at, name, email, encrypted_password) VALUES (12, '2019-03-04 18:56:25.339544', null, '2019-03-04 18:56:25.339544', 'Felipe R Michetti', 'felipe.michetti@gmail.com', '13123sxzzxzx');
+INSERT INTO public.users (id, created_at, deleted_at, updated_at, name, email, encrypted_password) VALUES (15, '2019-03-04 19:14:18.324758', null, '2019-03-04 19:14:18.324758', 'Felipe', 'felipe@gmail.com', 'xxxxxx');

@@ -1,0 +1,1 @@
+INSERT INTO public.customers (id, created_at, deleted_at, updated_at, phone, cpf, user_id) VALUES (13, '2019-03-04 18:57:08.467613', '2019-03-04 19:00:34.855000', '2019-03-04 19:00:37.044039', '123123123', '123123132', 11);
